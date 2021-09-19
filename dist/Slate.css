@@ -3942,6 +3942,15 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
 #app-mount .base-gE7OpD svg {
   display: none;
 }
+#app-mount .base-gE7OpD .cooldownWrapper-3joyFc {
+  color: var(--text-normal) !important;
+  font-size: var(--font-size-sm);
+  line-height: normal;
+  font-weight: var(--font-weight-semibold);
+}
+#app-mount .base-gE7OpD .cooldownWrapper-3joyFc[style*="240"] {
+  color: rgb(var(--status-red)) !important;
+}
 #app-mount form:hover .base-gE7OpD {
   opacity: 1;
 }
@@ -13723,18 +13732,6 @@ html.theme-light #app-mount .theme-light .root-1gCeng .container-1CE3eW > div[st
 #app-mount .downloadLink-1ywL9o {
   opacity: 1;
   text-shadow: var(--elevation-2);
-}
-
-/* Slowmode Is Enabled */
-#app-mount .typing-2GQL18 .cooldownWrapper-3joyFc {
-	margin-left: 6px;
-	margin-top: 1px;
-	font-size: 10px;
-	opacity: 0.5;
-}
-#app-mount .typing-2GQL18 .cooldownWrapper-3joyFc .slowModeIcon-1BPDC_ {
-	margin-left: 2px;
-	width: 12px;
 }
 
 #app-mount .container-1If-HZ {
