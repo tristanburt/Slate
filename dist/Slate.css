@@ -3942,6 +3942,8 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
   display: none;
 }
 #app-mount .base-gE7OpD .cooldownWrapper-3joyFc { height: 32px; background: var(--lv1); box-shadow: inset 0 0 0 100vmax rgba(255, 255, 255, .08), 0 0 10px #000; width: fit-content; top: -40px; margin: 0; max-width: 400px; opacity: 1; z-index: 1; transition: all .25s ease; text-overflow: ellipsis; display: flex; overflow-y:visible; align-items: center; font-size:var(--size1); }
+#app-mount .base-gE7OpD .cooldownWrapper-3joyFc[style*="240"] {
+  color: rgb(var(--status-red)) !important;
 #app-mount form:hover .base-gE7OpD {
   opacity: 1;
 }
