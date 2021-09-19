@@ -3946,6 +3946,7 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
 }
 #app-mount .base-gE7OpD .cooldownWrapper-3joyFc[style*="240"] {
   color: rgb(var(--status-red)) !important;
+  background: var(--text-normal);
 }
 #app-mount form:hover .base-gE7OpD {
   opacity: 1;
