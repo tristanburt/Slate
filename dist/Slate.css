@@ -3943,6 +3943,11 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
   display: none;
 }
 #app-mount .base-gE7OpD .cooldownWrapper-3joyFc {
+  background: var(--bg-lvl-2);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--rounded-large);
+  box-shadow: var(--elevation-far);
+  overflow: visible;
   color: var(--text-normal) !important;
   font-size: var(--font-size-sm);
   line-height: normal;
