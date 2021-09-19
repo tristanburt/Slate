@@ -3941,18 +3941,8 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
 #app-mount .base-gE7OpD svg {
   display: none;
 }
-#app-mount .base-gE7OpD .cooldownWrapper-3joyFc {
-  height: 22px;
-  width: 22px;
-  filter: none !important;
-  transform: none !important;
-  background: var(--text-muted);
-}
-#app-mount .base-gE7OpD .cooldownWrapper-3joyFc .slowModeIcon-1BPDC_ {
-	width: 12px;
-	bottom: 0px;
-	margin-left: 2px;
-}
+#app-mount .base-gE7OpD .cooldownWrapper-3joyFc { padding:0 10px; top:0; left:unset; right:-40px !important; }
+#app-mount .base-gE7OpD .slowModeIcon-1BPDC_ { margin:0; }
 #app-mount form:hover .base-gE7OpD {
   opacity: 1;
 }
