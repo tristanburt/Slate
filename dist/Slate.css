@@ -13725,6 +13725,18 @@ html.theme-light #app-mount .theme-light .root-1gCeng .container-1CE3eW > div[st
   text-shadow: var(--elevation-2);
 }
 
+/* Slowmode Is Enabled */
+.typing-2GQL18 .cooldownWrapper-3joyFc {
+	margin-left: 6px;
+	margin-top: 1px;
+	font-size: 10px;
+	opacity: 0.5;
+}
+.typing-2GQL18 .cooldownWrapper-3joyFc .slowModeIcon-1BPDC_ {
+	margin-left: 2px;
+	width: 12px;
+}
+
 #app-mount .container-1If-HZ {
   background: var(--background);
   flex-wrap: wrap;
