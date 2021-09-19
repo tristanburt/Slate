@@ -3953,9 +3953,6 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
   line-height: normal;
   font-weight: var(--font-weight-semibold);
 }
-#app-mount .base-gE7OpD .cooldownWrapper-3joyFc[style*="240"] {
-  color: rgb(var(--status-red)) !important;
-}
 #app-mount form:hover .base-gE7OpD {
   opacity: 1;
 }
