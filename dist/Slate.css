@@ -1883,10 +1883,9 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
 #app-mount .sidebar-2K8pFh .header-2V-4Sw .button-1w5pas {
   transform-origin: center;
   transition: none;
-  position: center
+  position: absolute;
   margin: 0;
   right: var(--spacing);
-  top: calc(var(--toolbar-height) / 2 - 2px);
   width: 0;
   height: 0;
   border-left: 5px solid transparent;
