@@ -13726,13 +13726,13 @@ html.theme-light #app-mount .theme-light .root-1gCeng .container-1CE3eW > div[st
 }
 
 /* Slowmode Is Enabled */
-.typing-2GQL18 .cooldownWrapper-3joyFc {
+#app-mount .typing-2GQL18 .cooldownWrapper-3joyFc {
 	margin-left: 6px;
 	margin-top: 1px;
 	font-size: 10px;
 	opacity: 0.5;
 }
-.typing-2GQL18 .cooldownWrapper-3joyFc .slowModeIcon-1BPDC_ {
+#app-mount .typing-2GQL18 .cooldownWrapper-3joyFc .slowModeIcon-1BPDC_ {
 	margin-left: 2px;
 	width: 12px;
 }
